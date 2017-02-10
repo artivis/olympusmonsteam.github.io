@@ -27,7 +27,7 @@ th, td {
 | ![Bence](https://avatars2.githubusercontent.com/u/3524577)	| **Bence Magyar** |             	|             	|       	|
 | ![Enrique](https://avatars2.githubusercontent.com/u/382167)   	| **Enrique Fernandez**             	|             	|             	|       	|
 | ![Hilario](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/09b/3f2/08b3b20.jpg) | **Hilario Tome**             	|             	|             	|       	|
-| ![Jeremie](https://lh5.googleusercontent.com/-G59isqYdbQk/AAAAAAAAAAI/AAAAAAAABao/VE411jwg0mw/photo.jpg)      	| **Jeremie Deray**             	|             	|             	|       	|
+| ![Jeremie](https://lh5.googleusercontent.com/-G59isqYdbQk/AAAAAAAAAAI/AAAAAAAABao/VE411jwg0mw/photo.jpg) | **Jeremie Deray** | Navigation & Computer Vision 	| Robotics Engineer at PAL Robotics	| [LinkedIn](https://es.linkedin.com/in/jeremiederay), [Github](https://github.com/artivis) |
 |  ![Jordan](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a4/3e5/35d4e7c.jpg)     	| **Jordan Palacios**             	|             	|             	|       	|
 |  ![Luca](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/081/1c1/1a2e287.jpg)     	| **Luca Marchionni**             	|             	|             	|       	|
 | ![Procopio](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAinAAAAJDUzNjAyNThhLWFhYWEtNDg0Yi05ZWNhLWUzMjI0ZTI1MDUxMw.jpg)      	| **Procopio Stein**           	|             	|             	|       	|
